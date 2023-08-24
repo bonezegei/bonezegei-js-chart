@@ -330,7 +330,7 @@ strong {
 }
 
 .nav-container input[type="checkbox"]:not(checked) ~ .menu-items {
-  animation: nav-menu-items-orig 0.5s;
+  /*animation: nav-menu-items-orig 0.5s;*/
 }
 
 .nav-container input[type="checkbox"]:checked ~ .hamburger-lines .line1 {
